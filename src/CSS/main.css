@@ -1,0 +1,13 @@
+#main{
+    margin-left: 25vw;
+}
+
+h2{
+    font-size: 7vh;
+    color: rgb(150, 97, 27);
+}
+#main ul li{
+    font-size: 4vh;
+    margin: 1vh;
+    color: wheat;
+}
